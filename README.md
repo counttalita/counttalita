@@ -1,4 +1,4 @@
-<a href="https://tosh.co.za/"><img src="assets/header.svg" width="100%" alt="Thabang Phaleng — Founder & engineer at TOSH" /></a>
+<a href="https://tosh.co.za/"><img src="assets/header.svg?v=2" width="100%" alt="Thabang Phaleng — Founder & engineer at TOSH" /></a>
 
 <p align="center">
   <a href="https://tosh.co.za/"><img src="https://img.shields.io/badge/tosh.co.za-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" /></a>
@@ -19,27 +19,27 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 
 <br/>
 
-<img src="assets/stats.svg" width="100%" alt="11+ years · 18 client teams · 1,059 contributions in the last year · 424 merged PRs · 51 repositories" />
+<img src="assets/stats.svg?v=2" width="100%" alt="11+ years · 18 client teams · 1,059 contributions in the last year · 424 merged PRs · 51 repositories" />
 
 <br/><br/>
 
 ## 🧭 Career path
 
-<img src="assets/career.svg" width="100%" alt="Career timeline: TOSH (2017–now), Carter, CrediGuest, Deloitte, Polymorph, Sonae Arauco, WashME Hub, Bazaruto/go2Africa, SilverBlue Group, Mukuru, DVT/MultiChoice, Neslo Technologies, Metronomic, Trackmatic, AURA, Platform45, SPACE, Infoware Studios, ThoughtWorks" />
+<img src="assets/career.svg?v=2" width="100%" alt="Career timeline: TOSH (2017–now), Carter, CrediGuest, Deloitte, Polymorph, Sonae Arauco, WashME Hub, Bazaruto/go2Africa, SilverBlue Group, Mukuru, DVT/MultiChoice, Neslo Technologies, Metronomic, Trackmatic, AURA, Platform45, SPACE, Infoware Studios, ThoughtWorks" />
 
 <br/><br/>
 
 ## ⚡ Things I'm building
 
 <p align="center">
-  <a href="https://tosh.co.za/"><img src="assets/projects/talita.svg" width="49%" alt="T.A.L.I.T.A." /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/sonictrue.svg" width="49%" alt="Sonic True" /></a>
-  <a href="https://bayline.tosh.co.za"><img src="assets/projects/bayline.svg" width="49%" alt="Bayline" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/terraflow.svg" width="49%" alt="TerraFlow" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/patela.svg" width="49%" alt="PATELA" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/touchline.svg" width="49%" alt="Touchline" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/washhub.svg" width="49%" alt="The Wash Hub" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/cheapahere.svg" width="49%" alt="CheapAHere" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/talita.svg?v=2" width="49%" alt="T.A.L.I.T.A." /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/sonictrue.svg?v=2" width="49%" alt="Sonic True" /></a>
+  <a href="https://bayline.tosh.co.za"><img src="assets/projects/bayline.svg?v=2" width="49%" alt="Bayline" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/terraflow.svg?v=2" width="49%" alt="TerraFlow" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/patela.svg?v=2" width="49%" alt="PATELA" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/touchline.svg?v=2" width="49%" alt="Touchline" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/washhub.svg?v=2" width="49%" alt="The Wash Hub" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/cheapahere.svg?v=2" width="49%" alt="CheapAHere" /></a>
 </p>
 
 <details>
@@ -78,7 +78,7 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 
 ## 📈 The climb
 
-<img src="assets/climb.svg" width="100%" alt="Contributions per year: 2021 5, 2022 1, 2023 49, 2024 27, 2025 464, 2026 957 so far" />
+<img src="assets/climb.svg?v=2" width="100%" alt="Contributions per year: 2021 5, 2022 1, 2023 49, 2024 27, 2025 464, 2026 957 so far" />
 
 <br/><br/>
 
