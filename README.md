@@ -32,14 +32,14 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 ## ⚡ Things I'm building
 
 <p align="center">
-  <a href="https://tosh.co.za/"><img src="assets/projects/talita.svg?v=2" width="49%" alt="T.A.L.I.T.A." /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/sonictrue.svg?v=2" width="49%" alt="Sonic True" /></a>
-  <a href="https://bayline.tosh.co.za"><img src="assets/projects/bayline.svg?v=2" width="49%" alt="Bayline" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/terraflow.svg?v=2" width="49%" alt="TerraFlow" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/patela.svg?v=2" width="49%" alt="PATELA" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/touchline.svg?v=2" width="49%" alt="Touchline" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/washhub.svg?v=2" width="49%" alt="The Wash Hub" /></a>
-  <a href="https://tosh.co.za/"><img src="assets/projects/cheapahere.svg?v=2" width="49%" alt="CheapAHere" /></a>
+  <picture><img src="assets/projects/talita.svg?v=2" width="49%" alt="T.A.L.I.T.A." /></picture>
+  <picture><img src="assets/projects/sonictrue.svg?v=2" width="49%" alt="Sonic True" /></picture>
+  <picture><img src="assets/projects/bayline.svg?v=2" width="49%" alt="Bayline" /></picture>
+  <picture><img src="assets/projects/terraflow.svg?v=2" width="49%" alt="TerraFlow" /></picture>
+  <picture><img src="assets/projects/patela.svg?v=2" width="49%" alt="PATELA" /></picture>
+  <picture><img src="assets/projects/touchline.svg?v=2" width="49%" alt="Touchline" /></picture>
+  <picture><img src="assets/projects/washhub.svg?v=2" width="49%" alt="The Wash Hub" /></picture>
+  <picture><img src="assets/projects/cheapahere.svg?v=2" width="49%" alt="CheapAHere" /></picture>
 </p>
 
 <details>
@@ -56,7 +56,6 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 | **BMSSP Engine** | Bounded multi-source shortest path: Rust core with Python domain adapters | Rust · Python · FastAPI |
 | **ScamShield** | Real-time, multi-layer scam call protection | Dart |
 | **Adaptive Cognitive Tutor** | Privacy-first adaptive learning platform | Python |
-| **Nesbot CLI** | Homebrew-distributed CLI for [@NesloTechnologies](https://github.com/NesloTechnologies) | Ruby |
 | **[pharmacy-formulary](https://github.com/counttalita/pharmacy-formulary)** | Temporal pharmacy formulary assessment | FastAPI · Postgres · Angular |
 
 </details>
