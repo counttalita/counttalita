@@ -14,7 +14,7 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 - 🧭 **Lead:** architecture, delivery and mentorship for teams at Carter, CrediGuest, Deloitte and more
 - 🏗️ **Build:** full-stack web and mobile across fintech, proptech, automotive, travel, IoT, media and enterprise SaaS
 - 🤖 **AI:** LLM-powered products on Anthropic Claude and AWS Bedrock, plus multi-agent systems in Rust
-- 🦀 **Tinker:** Rust side quests, like a desktop AI that sees, hears and remembers, and a real-time audio engine
+- 🦀 **Tinker:** Rust side quests, like a desktop AI that listens, speaks and remembers, and a real-time audio engine
 - 🗣️ **Speak:** English · Sepedi · Setswana · Afrikaans · Sesotho
 
 <br/>
@@ -32,7 +32,7 @@ I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ y
 ## ⚡ Things I'm building
 
 <p align="center">
-  <picture><img src="assets/projects/talita.svg?v=2" width="49%" alt="T.A.L.I.T.A." /></picture>
+  <picture><img src="assets/projects/talita.svg?v=3" width="49%" alt="T.A.L.I.T.A." /></picture>
   <picture><img src="assets/projects/sonictrue.svg?v=2" width="49%" alt="Sonic True" /></picture>
   <picture><img src="assets/projects/bayline.svg?v=2" width="49%" alt="Bayline" /></picture>
   <picture><img src="assets/projects/terraflow.svg?v=2" width="49%" alt="TerraFlow" /></picture>
