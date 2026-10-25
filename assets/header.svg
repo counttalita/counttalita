@@ -27,7 +27,7 @@
 <text x="58" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-1.5" fill="url(#name)" class="in" style="animation-delay:.35s">Thabang Phaleng</text>
 <text x="60" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#e6edf3" class="in" style="animation-delay:.6s">Founder &amp; engineer at <tspan font-weight="700" fill="#39d353">TOSH</tspan> <tspan fill="#8b949e">— The Only Software Hub</tspan></text>
 <g class="in" style="animation-delay:.85s" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#8b949e">
-<text x="60" y="262">Rails · Rust · Python · TypeScript · AI agents<tspan fill="#39d353" class="cur"> ▍</tspan></text>
-<text x="60" y="292" fill="#6e7681">Engineering tomorrow's software since 2017.</text>
+<text x="60" y="262">Ruby · Python · JS/TS · Java · Go · Rust · PHP · Swift · Kotlin<tspan fill="#39d353" class="cur"> ▍</tspan></text>
+<text x="60" y="292" fill="#6e7681">Dev Manager · Tech Lead · 11+ years across fintech, proptech, automotive &amp; AI.</text>
 </g>
 </svg>

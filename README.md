@@ -9,15 +9,23 @@
 
 <br/>
 
-I run **[The Only Software Hub](https://tosh.co.za/)**, a Johannesburg software studio, and write most of the code myself. Most of it is in private repos, so here's what's behind the green squares.
+I'm a **Software Development Manager, Tech Lead and Senior Engineer** with 11+ years of shipping, and the founder of **[The Only Software Hub](https://tosh.co.za/)**, a Johannesburg engineering consultancy. Most of my work lives in private client repos, so here's what's behind the green squares.
 
-- 🏗️ **By day:** Rails and Python products for property, fintech, automotive and services businesses
-- 🦀 **By night:** Rust and AI agents. A desktop AI that sees, hears and remembers, and an engine that fixes how your speakers sound
-- 🇿🇦 **Always:** software built for South African problems, from conveyancing to car washes
+- 🧭 **Lead:** architecture, delivery and mentorship for teams at Carter, CrediGuest, Deloitte and more
+- 🏗️ **Build:** full-stack web and mobile across fintech, proptech, automotive, travel, IoT, media and enterprise SaaS
+- 🤖 **AI:** LLM-powered products on Anthropic Claude and AWS Bedrock, plus multi-agent systems in Rust
+- 🦀 **Tinker:** Rust side quests, like a desktop AI that sees, hears and remembers, and a real-time audio engine
+- 🗣️ **Speak:** English · Sepedi · Setswana · Afrikaans · Sesotho
 
 <br/>
 
-<img src="assets/stats.svg" width="100%" alt="1,059 contributions in the last year · 424 merged PRs · 51 repositories · 3 organisations" />
+<img src="assets/stats.svg" width="100%" alt="11+ years · 18 client teams · 1,059 contributions in the last year · 424 merged PRs · 51 repositories" />
+
+<br/><br/>
+
+## 🧭 Career path
+
+<img src="assets/career.svg" width="100%" alt="Career timeline: TOSH (2017–now), Carter, CrediGuest, Deloitte, Polymorph, Sonae Arauco, WashME Hub, Bazaruto/go2Africa, SilverBlue Group, Mukuru, DVT/MultiChoice, Neslo Technologies, Metronomic, Trackmatic, AURA, Platform45, SPACE, Infoware Studios, ThoughtWorks" />
 
 <br/><br/>
 
@@ -57,11 +65,14 @@ I run **[The Only Software Hub](https://tosh.co.za/)**, a Johannesburg software 
 
 ## 🛠️ Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,rust,ts,js,go,elixir,dart&perline=10&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=svelte,react,angular,flutter,swift,kotlin,tailwind,html,css,nodejs&perline=10&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,git,linux,apple,vscode,obsidian,bash&perline=10&theme=dark" />
-</p>
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ruby,python,js,ts,java,go,rust,php,swift,kotlin,dart&theme=dark" height="40" /> |
+| **Frontend & mobile** | <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,flutter,tailwind,html,css&theme=dark" height="40" /> |
+| **Backend & cloud** | <img src="https://skillicons.dev/icons?i=rails,nodejs,fastapi,dotnet,aws,heroku,docker,githubactions&theme=dark" height="40" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql&theme=dark" height="40" /> |
+| **AI & LLMs** | ![Claude](https://img.shields.io/badge/Anthropic_Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=39d353) ![Multi-agent](https://img.shields.io/badge/Multi--agent_systems-0d1117?style=for-the-badge&logo=rust&logoColor=39d353) |
+| **Leadership** | Solution architecture · Agile delivery · Code review · CI/CD · Mentorship |
 
 <br/>
 
