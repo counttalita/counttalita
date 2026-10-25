@@ -1,67 +1,84 @@
-<!-- Banner -->
+<a href="https://tosh.co.za/"><img src="assets/header.svg" width="100%" alt="Thabang Phaleng — Founder & engineer at TOSH" /></a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f43,100:39d353&height=200&section=header&text=Thabang%20Phaleng&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%40%20The%20Only%20Software%20Hub&descAlignY=58&descSize=18&animation=fadeIn" />
+  <a href="https://tosh.co.za/"><img src="https://img.shields.io/badge/tosh.co.za-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" /></a>
+  <a href="https://github.com/We-Are-TOSH"><img src="https://img.shields.io/badge/We--Are--TOSH-0d1117?style=for-the-badge&logo=github&logoColor=39d353" /></a>
+  <img src="https://img.shields.io/badge/Johannesburg,_ZA-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39d353" />
+  <img src="https://komarev.com/ghpvc/?username=counttalita&label=views&color=0d1117&style=for-the-badge" />
 </p>
 
+<br/>
+
+I run **[The Only Software Hub](https://tosh.co.za/)**, a Johannesburg software studio, and write most of the code myself. Most of it is in private repos, so here's what's behind the green squares.
+
+- 🏗️ **By day:** Rails and Python products for property, fintech, automotive and services businesses
+- 🦀 **By night:** Rust and AI agents. A desktop AI that sees, hears and remembers, and an engine that fixes how your speakers sound
+- 🇿🇦 **Always:** software built for South African problems, from conveyancing to car washes
+
+<br/>
+
+<img src="assets/stats.svg" width="100%" alt="1,059 contributions in the last year · 424 merged PRs · 51 repositories · 3 organisations" />
+
+<br/><br/>
+
+## ⚡ Things I'm building
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Full-stack+engineer+%F0%9F%9B%A0%EF%B8%8F;Building+TOSH+from+Johannesburg+%F0%9F%87%BF%F0%9F%87%A6;Ruby+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Rust;Shipping+products%2C+not+just+code+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/talita.svg" width="49%" alt="T.A.L.I.T.A." /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/sonictrue.svg" width="49%" alt="Sonic True" /></a>
+  <a href="https://bayline.tosh.co.za"><img src="assets/projects/bayline.svg" width="49%" alt="Bayline" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/terraflow.svg" width="49%" alt="TerraFlow" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/patela.svg" width="49%" alt="PATELA" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/touchline.svg" width="49%" alt="Touchline" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/washhub.svg" width="49%" alt="The Wash Hub" /></a>
+  <a href="https://tosh.co.za/"><img src="assets/projects/cheapahere.svg" width="49%" alt="CheapAHere" /></a>
 </p>
 
+<details>
+<summary><b>🧪 More from the workshop</b></summary>
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Catch Up Zone** | Privacy-first proximity app that nudges you when a real contact is nearby. No feed, no strangers | FastAPI · Swift · Kotlin · Redis |
+| **Talent Brew** | B2B marketplace matching benched professionals with firms that need their skills | Rails |
+| **PropPass** | Property lifecycle platform *(in progress)* | Rails 8.1 · Postgres 18 |
+| **VisitAr** | Visitor management with South African ID KYC and POPIA controls | Go |
+| **Hotspot** | Community safety reporting with geofenced danger-zone alerts | Elixir |
+| **BMSSP Engine** | Bounded multi-source shortest path: Rust core with Python domain adapters | Rust · Python · FastAPI |
+| **ScamShield** | Real-time, multi-layer scam call protection | Dart |
+| **Adaptive Cognitive Tutor** | Privacy-first adaptive learning platform | Python |
+| **Nesbot CLI** | Homebrew-distributed CLI for [@NesloTechnologies](https://github.com/NesloTechnologies) | Ruby |
+| **[pharmacy-formulary](https://github.com/counttalita/pharmacy-formulary)** | Temporal pharmacy formulary assessment | FastAPI · Postgres · Angular |
+
+</details>
+
+<br/>
+
+## 🛠️ Toolbox
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=counttalita&label=Profile%20views&color=39d353&style=flat-square" />
-  <a href="https://tosh.co.za/"><img src="https://img.shields.io/badge/TOSH-tosh.co.za-39d353?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Johannesburg-South%20Africa-0d1117?style=flat-square&logo=googlemaps&logoColor=39d353" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,rust,ts,js,go,elixir,dart&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=svelte,react,angular,flutter,swift,kotlin,tailwind,html,css,nodejs&perline=10&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,githubactions,git,linux,apple,vscode,obsidian,bash&perline=10&theme=dark" />
 </p>
 
----
+<br/>
 
-### 🧑🏿‍💻 About Me
+## 📈 The climb
 
-I'm the founder of **[The Only Software Hub (TOSH)](https://tosh.co.za/)** in Johannesburg, South Africa. I build end-to-end products — from APIs and data pipelines to slick, interactive front-ends — and ship them for real clients.
+<img src="assets/climb.svg" width="100%" alt="Contributions per year: 2021 5, 2022 1, 2023 49, 2024 27, 2025 464, 2026 957 so far" />
 
-- 🔭 Currently building **[PropPass](https://github.com/We-Are-TOSH)** with the TOSH team
-- 🏢 Shipping across **[@We-Are-TOSH](https://github.com/We-Are-TOSH)**, **[@Just-Be-Lekker](https://github.com/Just-Be-Lekker)** and **[@NesloTechnologies](https://github.com/NesloTechnologies)**
-- 🦀 Tinkering with **Rust** and AI side-projects
-- 🎧 When I'm not coding, I'm producing deep house
+<br/><br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/counttalita/counttalita/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/counttalita/counttalita/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/counttalita/counttalita/output/snake-dark.svg" width="100%" />
+</picture>
 
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://tosh.co.za/"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" /></a>
-  <a href="https://github.com/We-Are-TOSH"><img src="https://img.shields.io/badge/We--Are--TOSH-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,ts,js,rust,elixir,go,dart&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,tailwind,threejs,html,css,nodejs,php&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,gcp,vercel,git,github,vscode,figma&perline=10" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=counttalita&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=counttalita&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=counttalita&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=counttalita&bg_color=0d1117&color=39d353&line=1f6f43&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1f6f43,100:0d1117&height=110&section=footer" />
+  <sub>Building from Johannesburg · <a href="https://tosh.co.za/">tosh.co.za</a> · <a href="https://github.com/We-Are-TOSH">@We-Are-TOSH</a> · <a href="https://github.com/Just-Be-Lekker">@Just-Be-Lekker</a> · <a href="https://github.com/NesloTechnologies">@NesloTechnologies</a></sub>
 </p>

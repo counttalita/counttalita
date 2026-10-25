@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="210" viewBox="0 0 580 210">
+<style>
+.in{animation:up .8s cubic-bezier(.2,.7,.2,1) 0.16s backwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.glow{animation:g 4s ease-in-out infinite}@keyframes g{50%{opacity:.35}}
+</style>
+<defs><radialGradient id="h" cx="1" cy="0" r="1"><stop offset="0" stop-color="#39d353" stop-opacity=".18"/><stop offset=".6" stop-color="#39d353" stop-opacity="0"/></radialGradient></defs>
+<g class="in">
+<rect x=".5" y=".5" width="579" height="209" rx="16" fill="#161b22" stroke="#30363d"/>
+<rect x=".5" y=".5" width="579" height="209" rx="16" fill="url(#h)" class="glow"/>
+<text x="28" y="56" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#e6edf3" letter-spacing="-.5">Bayline</text>
+<rect x="457" y="34" width="95" height="24" rx="12" fill="none" stroke="#30363d"/>
+<text x="504" y="50" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8b949e">live · SaaS</text>
+<circle cx="34" cy="76" r="6" fill="#cc342d"/>
+<text x="46" y="81" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Ruby</text>
+<text x="28" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">Workshop visibility for dealerships:</text><text x="28" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">configurable service flows, live</text><text x="28" y="148" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#8b949e">customer tracking links and SMS.</text>
+<rect x="28" y="166" width="51" height="24" rx="12" fill="#0e4429" fill-opacity=".55" stroke="#26a641" stroke-opacity=".5"/><text x="54" y="182" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#7ee787">Rails</text><rect x="87.0" y="166" width="51" height="24" rx="12" fill="#0e4429" fill-opacity=".55" stroke="#26a641" stroke-opacity=".5"/><text x="112" y="182" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#7ee787">Turbo</text><rect x="146.0" y="166" width="103" height="24" rx="12" fill="#0e4429" fill-opacity=".55" stroke="#26a641" stroke-opacity=".5"/><text x="197" y="182" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#7ee787">multi-tenant</text>
+</g>
+</svg>
